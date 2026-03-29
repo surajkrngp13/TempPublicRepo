@@ -1,0 +1,390 @@
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure banane ke liye use hota hai¦HTML elements se web content organize hota hai.
+What is the capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh ek major global city hai.
+Which language is spoken in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish Spain ki official language hai¦Yeh Romance language family ka part hai.
+What is \(a^2 + 2ab + b^2\)?¦Binomial expansion¦Quadratic equation¦Linear equation¦Trigonometric identity¦Logarithmic identity¦1¦Yeh binomial square formula hai¦Iska use algebraic expansion me hota hai.
+What is the capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin Germany ki capital hai¦Yeh political center hai.
+Which language is spoken in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Yeh colonial history se related hai.
+What is \( \int x^2 dx \)?¦x^3/3 + C¦x^2/2 + C¦2x + C¦x^3 + C¦ln(x) + C¦1¦Integration of x^2 is x^3/3 + C¦Yeh calculus ka basic integral rule hai.
+Which is the currency of China?¦Yen¦Yuan¦Won¦Dollar¦Euro¦2¦Yuan China ki currency hai¦Isse Renminbi bhi kaha jata hai.
+Which language is spoken in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian Russia ki official language hai¦Yeh Cyrillic script use karta hai.
+What is \( (x+y)^3 \)?¦x^3 + y^3¦x^3 + 3x^2y + 3xy^2 + y^3¦x^3 + 3xy + y^3¦x^2 + y^2¦3x + 3y¦2¦Yeh cubic binomial expansion hai¦Algebra me widely use hota hai.
+Which is the capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome Italy ki capital hai¦Yeh historical city hai.
+Which language is spoken in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic Egypt ki official language hai¦Middle East me widely used hai.
+What is \( \lim_{x \to 0} \frac{\sin x}{x} \)?¦0¦1¦∞¦-1¦Undefined¦2¦Limit equals 1¦Yeh calculus ka fundamental limit hai.
+Which is the national animal of India?¦Lion¦Tiger¦Elephant¦Leopard¦Deer¦2¦Tiger India ka national animal hai¦Yeh strength ka symbol hai.
+Which language is spoken in South Korea?¦Japanese¦Korean¦Chinese¦Thai¦Hindi¦2¦Korean South Korea ki official language hai¦Hangul script use hota hai.
+What is \( E = mc^2 \)?¦Energy-mass relation¦Ohm's law¦Newton law¦Hooke law¦Bernoulli equation¦1¦Einstein ka mass-energy equivalence formula hai¦Relativity theory ka part hai.
+Which is the capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Yeh administrative center hai.
+Which language is spoken in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish Turkey ki official language hai¦Latin script use hota hai.
+What is \( \sqrt{a^2} \)?¦a¦-a¦±a¦0¦1¦3¦Square root gives absolute value¦Mathematics me ± consider hota hai.
+Which is the capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+Which language is spoken in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali Bangladesh ki official language hai¦Devanagari script similar hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦This equals 1¦Yeh trigonometric identity hai.
+Which is the capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political hub hai.
+Which language is spoken in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official language hai¦Bahasa Indonesia kaha jata hai.
+What is \( \frac{d}{dx}(x^3) \)?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative of x^3 is 3x^2¦Calculus ka basic rule hai.
+Which is the capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city bhi hai.
+Which language is spoken in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian Iran ki official language hai¦Farsi bhi kaha jata hai.
+What is \( \log_{10}(100) \)?¦1¦2¦3¦10¦100¦2¦Log base 10 of 100 is 2¦Logarithm concept hai.
+Which is the capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+Which language is spoken in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official language hai¦Scandinavian language hai.
+What is \( (a-b)^2 \)?¦a^2 - b^2¦a^2 - 2ab + b^2¦a^2 + 2ab + b^2¦2a - 2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which is the capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+Which language is spoken in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official language hai¦Tonal language hai.
+What is \( \int e^x dx \)?¦e^x + C¦x e^x¦e^{x+1}¦ln(x)¦1¦e^x + C¦Exponential integral basic hai.
+Which is the capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+Which language is spoken in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official language hai¦Brazil me bhi spoken hai.
+What is \( \cos^2 x - \sin^2 x \)?¦cos 2x¦sin 2x¦tan x¦1¦0¦1¦Double angle identity hai¦Trigonometry me use hota hai.
+Which is the capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+Which language is spoken in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official language hai¦Ancient language hai.
