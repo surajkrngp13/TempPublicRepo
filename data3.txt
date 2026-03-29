@@ -1,0 +1,412 @@
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure define karta hai¦Iska use websites banane me hota hai.
+What is 2+2?¦3¦4¦5¦6¦7¦2¦2+2 equals 4¦Basic arithmetic addition hai.
+Capital of India?¦Mumbai¦Kolkata¦New Delhi¦Chennai¦Jaipur¦3¦New Delhi India ki capital hai¦Yeh administrative center hai.
+What is \(2^3\)?¦6¦7¦8¦9¦10¦3¦2^3 = 8¦Exponents ka basic concept hai.
+Capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh major global city hai.
+Which language in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Colonial history se related hai.
+What is \(a^2\)?¦a+a¦a×a¦2a¦a/2¦1¦a^2 means a multiplied by itself¦Algebra ka basic concept hai.
+Capital of France?¦Berlin¦Madrid¦Paris¦Rome¦Lisbon¦3¦Paris France ki capital hai¦Eiffel Tower yahan hai.
+What is 10×10?¦100¦90¦110¦120¦80¦1¦10×10 = 100¦Multiplication table ka part hai.
+Which language in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian official language hai¦Cyrillic script use hota hai.
+What is \( \sqrt{16} \)?¦2¦3¦4¦5¦6¦3¦√16 = 4¦Perfect square hai.
+Capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin capital hai¦Political hub hai.
+Which language in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic official language hai¦Middle East language hai.
+What is 5+7?¦10¦11¦12¦13¦14¦3¦5+7 = 12¦Basic addition hai.
+Capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Administrative center hai.
+What is \( \sin(90^\circ) \)?¦0¦0.5¦1¦-1¦2¦3¦sin 90° = 1¦Trigonometry identity hai.
+Which language in China?¦Mandarin¦Japanese¦Korean¦Thai¦Hindi¦1¦Mandarin China ki main language hai¦World me widely spoken hai.
+What is 9×9?¦72¦81¦90¦99¦100¦2¦9×9 = 81¦Multiplication table hai.
+Capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome capital hai¦Historical city hai.
+What is \(x+0\)?¦0¦x¦1¦-x¦2x¦2¦x+0 = x¦Identity property hai.
+Which language in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish official language hai¦Romance language hai.
+What is 20/5?¦2¦3¦4¦5¦6¦3¦20/5 = 4¦Division ka example hai.
+Capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+What is \(x^2\) derivative?¦x¦2x¦x^2¦2¦1¦2¦Derivative of x^2 is 2x¦Calculus rule hai.
+Which language in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish official language hai¦Latin script use hota hai.
+What is 6×7?¦40¦42¦44¦46¦48¦2¦6×7 = 42¦Multiplication hai.
+Capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city hai.
+What is \( (a+b)^2 \)?¦a^2+b^2¦a^2+2ab+b^2¦a^2-b^2¦2a+2b¦ab¦2¦Binomial expansion hai¦Algebra me use hota hai.
+Which language in Korea?¦Korean¦Japanese¦Chinese¦Thai¦Hindi¦1¦Korean official language hai¦Hangul script use hota hai.
+What is 8×8?¦56¦64¦72¦80¦88¦2¦8×8 = 64¦Square multiplication hai.
+Capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political center hai.
+What is \( \log_{10}(10) \)?¦0¦1¦2¦10¦100¦2¦log10(10)=1¦Logarithm concept hai.
+Which language in Italy?¦Italian¦Spanish¦French¦German¦English¦1¦Italian official language hai¦Romance family hai.
+What is 15+25?¦30¦35¦40¦45¦50¦3¦15+25 = 40¦Addition hai.
+Capital of UK?¦London¦Manchester¦Birmingham¦Leeds¦Liverpool¦1¦London capital hai¦Global city hai.
+What is \( \int x dx \)?¦x^2/2+C¦x^2¦2x¦lnx¦1/x¦1¦Integral of x is x^2/2+C¦Calculus concept hai.
+Which language in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali official hai¦Widely spoken hai.
+What is 12×12?¦120¦132¦144¦156¦168¦3¦12×12 = 144¦Square multiplication hai.
+Capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+What is \( \cos^2 x + \sin^2 x \)?¦0¦1¦2¦x¦-1¦2¦Identity equals 1¦Trigonometry identity hai.
+Which language in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian official hai¦Farsi bhi kaha jata hai.
+What is 7×5?¦30¦35¦40¦45¦50¦2¦7×5 = 35¦Multiplication hai.
+Capital of Egypt?¦Cairo¦Alexandria¦Giza¦Luxor¦Aswan¦1¦Cairo capital hai¦Nile ke paas hai.
+What is \(E=mc^2\)?¦Energy-mass relation¦Ohm law¦Newton law¦Hooke law¦Bernoulli¦1¦Einstein formula hai¦Relativity se related hai.
+Which language in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official hai¦Brazil me bhi use hoti hai.
+What is 18/3?¦4¦5¦6¦7¦8¦3¦18/3 = 6¦Division hai.
+Capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+What is \( (x-1)^2 \)?¦x^2-2x+1¦x^2+1¦x^2-1¦2x-1¦x^2+2x+1¦1¦Binomial expansion hai¦Algebra me use hota hai.
+Which language in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official hai¦Scandinavian language hai.
+What is 11×11?¦111¦121¦131¦141¦151¦2¦11×11 = 121¦Square multiplication hai.
+Capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+What is \( \tan(45^\circ) \)?¦0¦1¦√2¦2¦-1¦2¦tan45°=1¦Trigonometry identity hai.
+Which language in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official hai¦Tonal language hai.
+What is 14×2?¦24¦26¦28¦30¦32¦3¦14×2 = 28¦Multiplication hai.
+Capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+What is \( \sqrt{25} \)?¦3¦4¦5¦6¦7¦3¦√25 = 5¦Perfect square hai.
+Which language in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official hai¦Ancient language hai.
+What is 13+6?¦18¦19¦20¦21¦22¦2¦13+6 = 19¦Addition hai.
+Capital of Denmark?¦Copenhagen¦Aarhus¦Odense¦Aalborg¦Esbjerg¦1¦Copenhagen capital hai¦Port city hai.
+What is \( \frac{d}{dx}(x^2) \)?¦x¦2x¦x^2¦2¦1¦2¦Derivative is 2x¦Calculus rule hai.
+Which language in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official hai¦Bahasa Indonesia kaha jata hai.
+What is 9×7?¦60¦63¦66¦69¦72¦2¦9×7 = 63¦Multiplication hai.
+Capital of Switzerland?¦Zurich¦Geneva¦Bern¦Basel¦Lausanne¦3¦Bern capital hai¦Administrative center hai.
+What is \( \int 1 dx \)?¦x+C¦1¦0¦lnx¦x^2¦1¦Integral of 1 is x+C¦Basic calculus hai.
+Which language in Morocco?¦Arabic¦French¦Berber¦Both Arabic and French¦English¦4¦Multiple languages use hoti hain¦Multilingual country hai.
+What is 25×4?¦80¦90¦100¦110¦120¦3¦25×4 = 100¦Multiplication hai.
+Capital of Kenya?¦Nairobi¦Mombasa¦Kisumu¦Nakuru¦Eldoret¦1¦Nairobi capital hai¦Major city hai.
+What is \( \pi \approx \)?¦2.14¦3.14¦4.14¦5.14¦6.14¦2¦π ≈ 3.14¦Circle calculations me use hota hai.
+Which language in Thailand?¦Thai¦Vietnamese¦Lao¦Khmer¦Malay¦1¦Thai official hai¦Tonal language hai.
+What is 16×3?¦45¦48¦50¦52¦54¦2¦16×3 = 48¦Multiplication hai.
+Capital of Pakistan?¦Karachi¦Lahore¦Islamabad¦Peshawar¦Quetta¦3¦Islamabad capital hai¦Administrative center hai.
+What is \(x^3\) derivative?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative is 3x^2¦Calculus rule hai.
+Which language in Nepal?¦Nepali¦Hindi¦Bengali¦Urdu¦English¦1¦Nepali official hai¦Devanagari script use hota hai.
+What is 21+9?¦28¦29¦30¦31¦32¦3¦21+9 = 30¦Addition hai.
+Capital of Sri Lanka?¦Colombo¦Kandy¦Sri Jayawardenepura Kotte¦Galle¦Jaffna¦3¦Administrative capital hai¦Political center hai.
+What is \( (a-b)^2 \)?¦a^2-b^2¦a^2-2ab+b^2¦a^2+2ab+b^2¦2a-2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which language in Malaysia?¦Malay¦English¦Chinese¦Tamil¦All of these¦5¦Malaysia multilingual hai¦Multiple languages use hoti hain.
+What is 50×2?¦90¦100¦110¦120¦80¦2¦50×2 = 100¦Multiplication hai.
+Capital of South Africa?¦Pretoria¦Cape Town¦Johannesburg¦Durban¦Bloemfontein¦1¦Pretoria executive capital hai¦Administrative center hai.
+What is \( \cos(0) \)?¦0¦0.5¦1¦-1¦2¦3¦cos0=1¦Trigonometry identity hai.
+Which language in Philippines?¦Filipino¦Spanish¦English¦Both Filipino and English¦Chinese¦4¦Filipino and English official hai¦Bilingual country hai.
+What is 30/5?¦4¦5¦6¦7¦8¦3¦30/5 = 6¦Division hai.
+Capital of Greece?¦Athens¦Thessaloniki¦Patras¦Heraklion¦Larissa¦1¦Athens capital hai¦Ancient city hai.
+What is \( x^2+y^2 \)?¦Linear term¦Quadratic expression¦Constant¦Logarithm¦Derivative¦2¦Quadratic expression hai¦Algebraic form hai.
+Which language in Poland?¦Polish¦German¦Russian¦English¦French¦1¦Polish official hai¦Slavic language hai.
+What is 40+60?¦90¦100¦110¦120¦80¦2¦40+60 = 100¦Addition hai.
+Capital of UAE?¦Dubai¦Abu Dhabi¦Sharjah¦Ajman¦Ras Al Khaimah¦2¦Abu Dhabi capital hai¦Political center hai.
+What is \( \lim_{x \to \infty} \frac{1}{x} \)?¦0¦1¦∞¦-1¦Undefined¦1¦Limit equals 0¦Calculus concept hai.
+Which language in Colombia?¦Spanish¦Portuguese¦English¦French¦German¦1¦Spanish official hai¦Widely spoken hai.
+What is 7×8?¦54¦56¦58¦60¦62¦2¦7×8 = 56¦Multiplication hai.
+Capital of Chile?¦Santiago¦Valparaiso¦Concepcion¦La Serena¦Antofagasta¦1¦Santiago capital hai¦Major city hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦Identity equals 1¦Trigonometry basic hai.
+Which language in Hungary?¦Hungarian¦German¦Slovak¦Romanian¦English¦1¦Hungarian official hai¦Unique language hai.
+What is 24/6?¦2¦3¦4¦5¦6¦3¦24/6 = 4¦Division hai.
+Capital of Peru?¦Lima¦Cusco¦Arequipa¦Trujillo¦Piura¦1¦Lima capital hai¦Coastal city hai.
+What is \( \frac{d}{dx}(x^3) \)?¦x^2¦3x^2¦3x¦x^3¦1¦2¦Derivative is 3x^2¦Calculus rule hai.
+Which language in Nigeria?¦English¦French¦Arabic¦Hausa only¦Spanish¦1¦English official hai¦Many local languages bhi hain.
+What is 8×9?¦70¦72¦74¦76¦78¦2¦8×9 = 72¦Multiplication hai.
+Capital of Vietnam?¦Hanoi¦Ho Chi Minh City¦Da Nang¦Hue¦Hai Phong¦1¦Hanoi capital hai¦Political center hai.
+What is \( \log(100) \)?¦1¦2¦3¦10¦100¦2¦log10(100)=2¦Logarithm concept hai.
+Which language in Ethiopia?¦Amharic¦Arabic¦English¦French¦Spanish¦1¦Amharic official hai¦Semitic language hai.
+What is 3×3×3?¦6¦9¦18¦27¦30¦4¦3×3×3 = 27¦Exponential multiplication hai.
+Capital of New Zealand?¦Auckland¦Wellington¦Christchurch¦Hamilton¦Dunedin¦2¦Wellington capital hai¦Administrative center hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure define karta hai¦Iska use websites banane me hota hai.
+What is 2+2?¦3¦4¦5¦6¦7¦2¦2+2 equals 4¦Basic arithmetic addition hai.
+Capital of India?¦Mumbai¦Kolkata¦New Delhi¦Chennai¦Jaipur¦3¦New Delhi India ki capital hai¦Yeh administrative center hai.
+What is \(2^3\)?¦6¦7¦8¦9¦10¦3¦2^3 = 8¦Exponents ka basic concept hai.
+Capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh major global city hai.
+Which language in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Colonial history se related hai.
+What is \(a^2\)?¦a+a¦a×a¦2a¦a/2¦1¦a^2 means a multiplied by itself¦Algebra ka basic concept hai.
+Capital of France?¦Berlin¦Madrid¦Paris¦Rome¦Lisbon¦3¦Paris France ki capital hai¦Eiffel Tower yahan hai.
+What is 10×10?¦100¦90¦110¦120¦80¦1¦10×10 = 100¦Multiplication table ka part hai.
+Which language in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian official language hai¦Cyrillic script use hota hai.
+What is \( \sqrt{16} \)?¦2¦3¦4¦5¦6¦3¦√16 = 4¦Perfect square hai.
+Capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin capital hai¦Political hub hai.
+Which language in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic official language hai¦Middle East language hai.
+What is 5+7?¦10¦11¦12¦13¦14¦3¦5+7 = 12¦Basic addition hai.
+Capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Administrative center hai.
+What is \( \sin(90^\circ) \)?¦0¦0.5¦1¦-1¦2¦3¦sin 90° = 1¦Trigonometry identity hai.
+Which language in China?¦Mandarin¦Japanese¦Korean¦Thai¦Hindi¦1¦Mandarin China ki main language hai¦World me widely spoken hai.
+What is 9×9?¦72¦81¦90¦99¦100¦2¦9×9 = 81¦Multiplication table hai.
+Capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome capital hai¦Historical city hai.
+What is \(x+0\)?¦0¦x¦1¦-x¦2x¦2¦x+0 = x¦Identity property hai.
+Which language in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish official language hai¦Romance language hai.
+What is 20/5?¦2¦3¦4¦5¦6¦3¦20/5 = 4¦Division ka example hai.
+Capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+What is \(x^2\) derivative?¦x¦2x¦x^2¦2¦1¦2¦Derivative of x^2 is 2x¦Calculus rule hai.
+Which language in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish official language hai¦Latin script use hota hai.
+What is 6×7?¦40¦42¦44¦46¦48¦2¦6×7 = 42¦Multiplication hai.
+Capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city hai.
+What is \( (a+b)^2 \)?¦a^2+b^2¦a^2+2ab+b^2¦a^2-b^2¦2a+2b¦ab¦2¦Binomial expansion hai¦Algebra me use hota hai.
+Which language in Korea?¦Korean¦Japanese¦Chinese¦Thai¦Hindi¦1¦Korean official language hai¦Hangul script use hota hai.
+What is 8×8?¦56¦64¦72¦80¦88¦2¦8×8 = 64¦Square multiplication hai.
+Capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political center hai.
+What is \( \log_{10}(10) \)?¦0¦1¦2¦10¦100¦2¦log10(10)=1¦Logarithm concept hai.
+Which language in Italy?¦Italian¦Spanish¦French¦German¦English¦1¦Italian official language hai¦Romance family hai.
+What is 15+25?¦30¦35¦40¦45¦50¦3¦15+25 = 40¦Addition hai.
+Capital of UK?¦London¦Manchester¦Birmingham¦Leeds¦Liverpool¦1¦London capital hai¦Global city hai.
+What is \( \int x dx \)?¦x^2/2+C¦x^2¦2x¦lnx¦1/x¦1¦Integral of x is x^2/2+C¦Calculus concept hai.
+Which language in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali official hai¦Widely spoken hai.
+What is 12×12?¦120¦132¦144¦156¦168¦3¦12×12 = 144¦Square multiplication hai.
+Capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+What is \( \cos^2 x + \sin^2 x \)?¦0¦1¦2¦x¦-1¦2¦Identity equals 1¦Trigonometry identity hai.
+Which language in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian official hai¦Farsi bhi kaha jata hai.
+What is 7×5?¦30¦35¦40¦45¦50¦2¦7×5 = 35¦Multiplication hai.
+Capital of Egypt?¦Cairo¦Alexandria¦Giza¦Luxor¦Aswan¦1¦Cairo capital hai¦Nile ke paas hai.
+What is \(E=mc^2\)?¦Energy-mass relation¦Ohm law¦Newton law¦Hooke law¦Bernoulli¦1¦Einstein formula hai¦Relativity se related hai.
+Which language in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official hai¦Brazil me bhi use hoti hai.
+What is 18/3?¦4¦5¦6¦7¦8¦3¦18/3 = 6¦Division hai.
+Capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+What is \( (x-1)^2 \)?¦x^2-2x+1¦x^2+1¦x^2-1¦2x-1¦x^2+2x+1¦1¦Binomial expansion hai¦Algebra me use hota hai.
+Which language in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official hai¦Scandinavian language hai.
+What is 11×11?¦111¦121¦131¦141¦151¦2¦11×11 = 121¦Square multiplication hai.
+Capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+What is \( \tan(45^\circ) \)?¦0¦1¦√2¦2¦-1¦2¦tan45°=1¦Trigonometry identity hai.
+Which language in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official hai¦Tonal language hai.
+What is 14×2?¦24¦26¦28¦30¦32¦3¦14×2 = 28¦Multiplication hai.
+Capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+What is \( \sqrt{25} \)?¦3¦4¦5¦6¦7¦3¦√25 = 5¦Perfect square hai.
+Which language in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official hai¦Ancient language hai.
+What is 13+6?¦18¦19¦20¦21¦22¦2¦13+6 = 19¦Addition hai.
+Capital of Denmark?¦Copenhagen¦Aarhus¦Odense¦Aalborg¦Esbjerg¦1¦Copenhagen capital hai¦Port city hai.
+What is \( \frac{d}{dx}(x^2) \)?¦x¦2x¦x^2¦2¦1¦2¦Derivative is 2x¦Calculus rule hai.
+Which language in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official hai¦Bahasa Indonesia kaha jata hai.
+What is 9×7?¦60¦63¦66¦69¦72¦2¦9×7 = 63¦Multiplication hai.
+Capital of Switzerland?¦Zurich¦Geneva¦Bern¦Basel¦Lausanne¦3¦Bern capital hai¦Administrative center hai.
+What is \( \int 1 dx \)?¦x+C¦1¦0¦lnx¦x^2¦1¦Integral of 1 is x+C¦Basic calculus hai.
+Which language in Morocco?¦Arabic¦French¦Berber¦Both Arabic and French¦English¦4¦Multiple languages use hoti hain¦Multilingual country hai.
+What is 25×4?¦80¦90¦100¦110¦120¦3¦25×4 = 100¦Multiplication hai.
+Capital of Kenya?¦Nairobi¦Mombasa¦Kisumu¦Nakuru¦Eldoret¦1¦Nairobi capital hai¦Major city hai.
+What is \( \pi \approx \)?¦2.14¦3.14¦4.14¦5.14¦6.14¦2¦π ≈ 3.14¦Circle calculations me use hota hai.
+Which language in Thailand?¦Thai¦Vietnamese¦Lao¦Khmer¦Malay¦1¦Thai official hai¦Tonal language hai.
+What is 16×3?¦45¦48¦50¦52¦54¦2¦16×3 = 48¦Multiplication hai.
+Capital of Pakistan?¦Karachi¦Lahore¦Islamabad¦Peshawar¦Quetta¦3¦Islamabad capital hai¦Administrative center hai.
+What is \(x^3\) derivative?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative is 3x^2¦Calculus rule hai.
+Which language in Nepal?¦Nepali¦Hindi¦Bengali¦Urdu¦English¦1¦Nepali official hai¦Devanagari script use hota hai.
+What is 21+9?¦28¦29¦30¦31¦32¦3¦21+9 = 30¦Addition hai.
+Capital of Sri Lanka?¦Colombo¦Kandy¦Sri Jayawardenepura Kotte¦Galle¦Jaffna¦3¦Administrative capital hai¦Political center hai.
+What is \( (a-b)^2 \)?¦a^2-b^2¦a^2-2ab+b^2¦a^2+2ab+b^2¦2a-2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which language in Malaysia?¦Malay¦English¦Chinese¦Tamil¦All of these¦5¦Malaysia multilingual hai¦Multiple languages use hoti hain.
+What is 50×2?¦90¦100¦110¦120¦80¦2¦50×2 = 100¦Multiplication hai.
+Capital of South Africa?¦Pretoria¦Cape Town¦Johannesburg¦Durban¦Bloemfontein¦1¦Pretoria executive capital hai¦Administrative center hai.
+What is \( \cos(0) \)?¦0¦0.5¦1¦-1¦2¦3¦cos0=1¦Trigonometry identity hai.
+Which language in Philippines?¦Filipino¦Spanish¦English¦Both Filipino and English¦Chinese¦4¦Filipino and English official hai¦Bilingual country hai.
+What is 30/5?¦4¦5¦6¦7¦8¦3¦30/5 = 6¦Division hai.
+Capital of Greece?¦Athens¦Thessaloniki¦Patras¦Heraklion¦Larissa¦1¦Athens capital hai¦Ancient city hai.
+What is \( x^2+y^2 \)?¦Linear term¦Quadratic expression¦Constant¦Logarithm¦Derivative¦2¦Quadratic expression hai¦Algebraic form hai.
+Which language in Poland?¦Polish¦German¦Russian¦English¦French¦1¦Polish official hai¦Slavic language hai.
+What is 40+60?¦90¦100¦110¦120¦80¦2¦40+60 = 100¦Addition hai.
+Capital of UAE?¦Dubai¦Abu Dhabi¦Sharjah¦Ajman¦Ras Al Khaimah¦2¦Abu Dhabi capital hai¦Political center hai.
+What is \( \lim_{x \to \infty} \frac{1}{x} \)?¦0¦1¦∞¦-1¦Undefined¦1¦Limit equals 0¦Calculus concept hai.
+Which language in Colombia?¦Spanish¦Portuguese¦English¦French¦German¦1¦Spanish official hai¦Widely spoken hai.
+What is 7×8?¦54¦56¦58¦60¦62¦2¦7×8 = 56¦Multiplication hai.
+Capital of Chile?¦Santiago¦Valparaiso¦Concepcion¦La Serena¦Antofagasta¦1¦Santiago capital hai¦Major city hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦Identity equals 1¦Trigonometry basic hai.
+Which language in Hungary?¦Hungarian¦German¦Slovak¦Romanian¦English¦1¦Hungarian official hai¦Unique language hai.
+What is 24/6?¦2¦3¦4¦5¦6¦3¦24/6 = 4¦Division hai.
+Capital of Peru?¦Lima¦Cusco¦Arequipa¦Trujillo¦Piura¦1¦Lima capital hai¦Coastal city hai.
+What is \( \frac{d}{dx}(x^3) \)?¦x^2¦3x^2¦3x¦x^3¦1¦2¦Derivative is 3x^2¦Calculus rule hai.
+Which language in Nigeria?¦English¦French¦Arabic¦Hausa only¦Spanish¦1¦English official hai¦Many local languages bhi hain.
+What is 8×9?¦70¦72¦74¦76¦78¦2¦8×9 = 72¦Multiplication hai.
+Capital of Vietnam?¦Hanoi¦Ho Chi Minh City¦Da Nang¦Hue¦Hai Phong¦1¦Hanoi capital hai¦Political center hai.
+What is \( \log(100) \)?¦1¦2¦3¦10¦100¦2¦log10(100)=2¦Logarithm concept hai.
+Which language in Ethiopia?¦Amharic¦Arabic¦English¦French¦Spanish¦1¦Amharic official hai¦Semitic language hai.
+What is 3×3×3?¦6¦9¦18¦27¦30¦4¦3×3×3 = 27¦Exponential multiplication hai.
+Capital of New Zealand?¦Auckland¦Wellington¦Christchurch¦Hamilton¦Dunedin¦2¦Wellington capital hai¦Administrative center hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure define karta hai¦Iska use websites banane me hota hai.
+What is 2+2?¦3¦4¦5¦6¦7¦2¦2+2 equals 4¦Basic arithmetic addition hai.
+Capital of India?¦Mumbai¦Kolkata¦New Delhi¦Chennai¦Jaipur¦3¦New Delhi India ki capital hai¦Yeh administrative center hai.
+What is \(2^3\)?¦6¦7¦8¦9¦10¦3¦2^3 = 8¦Exponents ka basic concept hai.
+Capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh major global city hai.
+Which language in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Colonial history se related hai.
+What is \(a^2\)?¦a+a¦a×a¦2a¦a/2¦1¦a^2 means a multiplied by itself¦Algebra ka basic concept hai.
+Capital of France?¦Berlin¦Madrid¦Paris¦Rome¦Lisbon¦3¦Paris France ki capital hai¦Eiffel Tower yahan hai.
+What is 10×10?¦100¦90¦110¦120¦80¦1¦10×10 = 100¦Multiplication table ka part hai.
+Which language in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian official language hai¦Cyrillic script use hota hai.
+What is \( \sqrt{16} \)?¦2¦3¦4¦5¦6¦3¦√16 = 4¦Perfect square hai.
+Capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin capital hai¦Political hub hai.
+Which language in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic official language hai¦Middle East language hai.
+What is 5+7?¦10¦11¦12¦13¦14¦3¦5+7 = 12¦Basic addition hai.
+Capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Administrative center hai.
+What is \( \sin(90^\circ) \)?¦0¦0.5¦1¦-1¦2¦3¦sin 90° = 1¦Trigonometry identity hai.
+Which language in China?¦Mandarin¦Japanese¦Korean¦Thai¦Hindi¦1¦Mandarin China ki main language hai¦World me widely spoken hai.
+What is 9×9?¦72¦81¦90¦99¦100¦2¦9×9 = 81¦Multiplication table hai.
+Capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome capital hai¦Historical city hai.
+What is \(x+0\)?¦0¦x¦1¦-x¦2x¦2¦x+0 = x¦Identity property hai.
+Which language in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish official language hai¦Romance language hai.
+What is 20/5?¦2¦3¦4¦5¦6¦3¦20/5 = 4¦Division ka example hai.
+Capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+What is \(x^2\) derivative?¦x¦2x¦x^2¦2¦1¦2¦Derivative of x^2 is 2x¦Calculus rule hai.
+Which language in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish official language hai¦Latin script use hota hai.
+What is 6×7?¦40¦42¦44¦46¦48¦2¦6×7 = 42¦Multiplication hai.
+Capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city hai.
+What is \( (a+b)^2 \)?¦a^2+b^2¦a^2+2ab+b^2¦a^2-b^2¦2a+2b¦ab¦2¦Binomial expansion hai¦Algebra me use hota hai.
+Which language in Korea?¦Korean¦Japanese¦Chinese¦Thai¦Hindi¦1¦Korean official language hai¦Hangul script use hota hai.
+What is 8×8?¦56¦64¦72¦80¦88¦2¦8×8 = 64¦Square multiplication hai.
+Capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political center hai.
+What is \( \log_{10}(10) \)?¦0¦1¦2¦10¦100¦2¦log10(10)=1¦Logarithm concept hai.
+Which language in Italy?¦Italian¦Spanish¦French¦German¦English¦1¦Italian official language hai¦Romance family hai.
+What is 15+25?¦30¦35¦40¦45¦50¦3¦15+25 = 40¦Addition hai.
+Capital of UK?¦London¦Manchester¦Birmingham¦Leeds¦Liverpool¦1¦London capital hai¦Global city hai.
+What is \( \int x dx \)?¦x^2/2+C¦x^2¦2x¦lnx¦1/x¦1¦Integral of x is x^2/2+C¦Calculus concept hai.
+Which language in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali official hai¦Widely spoken hai.
+What is 12×12?¦120¦132¦144¦156¦168¦3¦12×12 = 144¦Square multiplication hai.
+Capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+What is \( \cos^2 x + \sin^2 x \)?¦0¦1¦2¦x¦-1¦2¦Identity equals 1¦Trigonometry identity hai.
+Which language in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian official hai¦Farsi bhi kaha jata hai.
+What is 7×5?¦30¦35¦40¦45¦50¦2¦7×5 = 35¦Multiplication hai.
+Capital of Egypt?¦Cairo¦Alexandria¦Giza¦Luxor¦Aswan¦1¦Cairo capital hai¦Nile ke paas hai.
+What is \(E=mc^2\)?¦Energy-mass relation¦Ohm law¦Newton law¦Hooke law¦Bernoulli¦1¦Einstein formula hai¦Relativity se related hai.
+Which language in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official hai¦Brazil me bhi use hoti hai.
+What is 18/3?¦4¦5¦6¦7¦8¦3¦18/3 = 6¦Division hai.
+Capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+What is \( (x-1)^2 \)?¦x^2-2x+1¦x^2+1¦x^2-1¦2x-1¦x^2+2x+1¦1¦Binomial expansion hai¦Algebra me use hota hai.
+Which language in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official hai¦Scandinavian language hai.
+What is 11×11?¦111¦121¦131¦141¦151¦2¦11×11 = 121¦Square multiplication hai.
+Capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+What is \( \tan(45^\circ) \)?¦0¦1¦√2¦2¦-1¦2¦tan45°=1¦Trigonometry identity hai.
+Which language in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official hai¦Tonal language hai.
+What is 14×2?¦24¦26¦28¦30¦32¦3¦14×2 = 28¦Multiplication hai.
+Capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+What is \( \sqrt{25} \)?¦3¦4¦5¦6¦7¦3¦√25 = 5¦Perfect square hai.
+Which language in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official hai¦Ancient language hai.
+What is 13+6?¦18¦19¦20¦21¦22¦2¦13+6 = 19¦Addition hai.
+Capital of Denmark?¦Copenhagen¦Aarhus¦Odense¦Aalborg¦Esbjerg¦1¦Copenhagen capital hai¦Port city hai.
+What is \( \frac{d}{dx}(x^2) \)?¦x¦2x¦x^2¦2¦1¦2¦Derivative is 2x¦Calculus rule hai.
+Which language in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official hai¦Bahasa Indonesia kaha jata hai.
+What is 9×7?¦60¦63¦66¦69¦72¦2¦9×7 = 63¦Multiplication hai.
+Capital of Switzerland?¦Zurich¦Geneva¦Bern¦Basel¦Lausanne¦3¦Bern capital hai¦Administrative center hai.
+What is \( \int 1 dx \)?¦x+C¦1¦0¦lnx¦x^2¦1¦Integral of 1 is x+C¦Basic calculus hai.
+Which language in Morocco?¦Arabic¦French¦Berber¦Both Arabic and French¦English¦4¦Multiple languages use hoti hain¦Multilingual country hai.
+What is 25×4?¦80¦90¦100¦110¦120¦3¦25×4 = 100¦Multiplication hai.
+Capital of Kenya?¦Nairobi¦Mombasa¦Kisumu¦Nakuru¦Eldoret¦1¦Nairobi capital hai¦Major city hai.
+What is \( \pi \approx \)?¦2.14¦3.14¦4.14¦5.14¦6.14¦2¦π ≈ 3.14¦Circle calculations me use hota hai.
+Which language in Thailand?¦Thai¦Vietnamese¦Lao¦Khmer¦Malay¦1¦Thai official hai¦Tonal language hai.
+What is 16×3?¦45¦48¦50¦52¦54¦2¦16×3 = 48¦Multiplication hai.
+Capital of Pakistan?¦Karachi¦Lahore¦Islamabad¦Peshawar¦Quetta¦3¦Islamabad capital hai¦Administrative center hai.
+What is \(x^3\) derivative?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative is 3x^2¦Calculus rule hai.
+Which language in Nepal?¦Nepali¦Hindi¦Bengali¦Urdu¦English¦1¦Nepali official hai¦Devanagari script use hota hai.
+What is 21+9?¦28¦29¦30¦31¦32¦3¦21+9 = 30¦Addition hai.
+Capital of Sri Lanka?¦Colombo¦Kandy¦Sri Jayawardenepura Kotte¦Galle¦Jaffna¦3¦Administrative capital hai¦Political center hai.
+What is \( (a-b)^2 \)?¦a^2-b^2¦a^2-2ab+b^2¦a^2+2ab+b^2¦2a-2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which language in Malaysia?¦Malay¦English¦Chinese¦Tamil¦All of these¦5¦Malaysia multilingual hai¦Multiple languages use hoti hain.
+What is 50×2?¦90¦100¦110¦120¦80¦2¦50×2 = 100¦Multiplication hai.
+Capital of South Africa?¦Pretoria¦Cape Town¦Johannesburg¦Durban¦Bloemfontein¦1¦Pretoria executive capital hai¦Administrative center hai.
+What is \( \cos(0) \)?¦0¦0.5¦1¦-1¦2¦3¦cos0=1¦Trigonometry identity hai.
+Which language in Philippines?¦Filipino¦Spanish¦English¦Both Filipino and English¦Chinese¦4¦Filipino and English official hai¦Bilingual country hai.
+What is 30/5?¦4¦5¦6¦7¦8¦3¦30/5 = 6¦Division hai.
+Capital of Greece?¦Athens¦Thessaloniki¦Patras¦Heraklion¦Larissa¦1¦Athens capital hai¦Ancient city hai.
+What is \( x^2+y^2 \)?¦Linear term¦Quadratic expression¦Constant¦Logarithm¦Derivative¦2¦Quadratic expression hai¦Algebraic form hai.
+Which language in Poland?¦Polish¦German¦Russian¦English¦French¦1¦Polish official hai¦Slavic language hai.
+What is 40+60?¦90¦100¦110¦120¦80¦2¦40+60 = 100¦Addition hai.
+Capital of UAE?¦Dubai¦Abu Dhabi¦Sharjah¦Ajman¦Ras Al Khaimah¦2¦Abu Dhabi capital hai¦Political center hai.
+What is \( \lim_{x \to \infty} \frac{1}{x} \)?¦0¦1¦∞¦-1¦Undefined¦1¦Limit equals 0¦Calculus concept hai.
+Which language in Colombia?¦Spanish¦Portuguese¦English¦French¦German¦1¦Spanish official hai¦Widely spoken hai.
+What is 7×8?¦54¦56¦58¦60¦62¦2¦7×8 = 56¦Multiplication hai.
+Capital of Chile?¦Santiago¦Valparaiso¦Concepcion¦La Serena¦Antofagasta¦1¦Santiago capital hai¦Major city hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦Identity equals 1¦Trigonometry basic hai.
+Which language in Hungary?¦Hungarian¦German¦Slovak¦Romanian¦English¦1¦Hungarian official hai¦Unique language hai.
+What is 24/6?¦2¦3¦4¦5¦6¦3¦24/6 = 4¦Division hai.
+Capital of Peru?¦Lima¦Cusco¦Arequipa¦Trujillo¦Piura¦1¦Lima capital hai¦Coastal city hai.
+What is \( \frac{d}{dx}(x^3) \)?¦x^2¦3x^2¦3x¦x^3¦1¦2¦Derivative is 3x^2¦Calculus rule hai.
+Which language in Nigeria?¦English¦French¦Arabic¦Hausa only¦Spanish¦1¦English official hai¦Many local languages bhi hain.
+What is 8×9?¦70¦72¦74¦76¦78¦2¦8×9 = 72¦Multiplication hai.
+Capital of Vietnam?¦Hanoi¦Ho Chi Minh City¦Da Nang¦Hue¦Hai Phong¦1¦Hanoi capital hai¦Political center hai.
+What is \( \log(100) \)?¦1¦2¦3¦10¦100¦2¦log10(100)=2¦Logarithm concept hai.
+Which language in Ethiopia?¦Amharic¦Arabic¦English¦French¦Spanish¦1¦Amharic official hai¦Semitic language hai.
+What is 3×3×3?¦6¦9¦18¦27¦30¦4¦3×3×3 = 27¦Exponential multiplication hai.
+Capital of New Zealand?¦Auckland¦Wellington¦Christchurch¦Hamilton¦Dunedin¦2¦Wellington capital hai¦Administrative center hai.
+What is HTML?¦HyperText Markup Language¦HighText Machine Language¦Hyper Tool Multi Language¦Home Text Markup Language¦None of these¦1¦HTML web pages structure define karta hai¦Iska use websites banane me hota hai.
+What is 2+2?¦3¦4¦5¦6¦7¦2¦2+2 equals 4¦Basic arithmetic addition hai.
+Capital of India?¦Mumbai¦Kolkata¦New Delhi¦Chennai¦Jaipur¦3¦New Delhi India ki capital hai¦Yeh administrative center hai.
+What is \(2^3\)?¦6¦7¦8¦9¦10¦3¦2^3 = 8¦Exponents ka basic concept hai.
+Capital of Japan?¦Tokyo¦Osaka¦Kyoto¦Nagoya¦Hiroshima¦1¦Tokyo Japan ki capital hai¦Yeh major global city hai.
+Which language in Brazil?¦Spanish¦Portuguese¦English¦French¦German¦2¦Portuguese Brazil ki official language hai¦Colonial history se related hai.
+What is \(a^2\)?¦a+a¦a×a¦2a¦a/2¦1¦a^2 means a multiplied by itself¦Algebra ka basic concept hai.
+Capital of France?¦Berlin¦Madrid¦Paris¦Rome¦Lisbon¦3¦Paris France ki capital hai¦Eiffel Tower yahan hai.
+What is 10×10?¦100¦90¦110¦120¦80¦1¦10×10 = 100¦Multiplication table ka part hai.
+Which language in Russia?¦Russian¦English¦French¦German¦Spanish¦1¦Russian official language hai¦Cyrillic script use hota hai.
+What is \( \sqrt{16} \)?¦2¦3¦4¦5¦6¦3¦√16 = 4¦Perfect square hai.
+Capital of Germany?¦Munich¦Berlin¦Frankfurt¦Hamburg¦Cologne¦2¦Berlin capital hai¦Political hub hai.
+Which language in Egypt?¦Arabic¦French¦English¦Spanish¦Italian¦1¦Arabic official language hai¦Middle East language hai.
+What is 5+7?¦10¦11¦12¦13¦14¦3¦5+7 = 12¦Basic addition hai.
+Capital of Canada?¦Toronto¦Vancouver¦Ottawa¦Montreal¦Calgary¦3¦Ottawa capital hai¦Administrative center hai.
+What is \( \sin(90^\circ) \)?¦0¦0.5¦1¦-1¦2¦3¦sin 90° = 1¦Trigonometry identity hai.
+Which language in China?¦Mandarin¦Japanese¦Korean¦Thai¦Hindi¦1¦Mandarin China ki main language hai¦World me widely spoken hai.
+What is 9×9?¦72¦81¦90¦99¦100¦2¦9×9 = 81¦Multiplication table hai.
+Capital of Italy?¦Rome¦Milan¦Venice¦Naples¦Florence¦1¦Rome capital hai¦Historical city hai.
+What is \(x+0\)?¦0¦x¦1¦-x¦2x¦2¦x+0 = x¦Identity property hai.
+Which language in Spain?¦Spanish¦French¦German¦Italian¦English¦1¦Spanish official language hai¦Romance language hai.
+What is 20/5?¦2¦3¦4¦5¦6¦3¦20/5 = 4¦Division ka example hai.
+Capital of Australia?¦Sydney¦Melbourne¦Canberra¦Perth¦Brisbane¦3¦Canberra capital hai¦Planned city hai.
+What is \(x^2\) derivative?¦x¦2x¦x^2¦2¦1¦2¦Derivative of x^2 is 2x¦Calculus rule hai.
+Which language in Turkey?¦Turkish¦Arabic¦Persian¦English¦Greek¦1¦Turkish official language hai¦Latin script use hota hai.
+What is 6×7?¦40¦42¦44¦46¦48¦2¦6×7 = 42¦Multiplication hai.
+Capital of Mexico?¦Guadalajara¦Mexico City¦Monterrey¦Cancun¦Tijuana¦2¦Mexico City capital hai¦Largest city hai.
+What is \( (a+b)^2 \)?¦a^2+b^2¦a^2+2ab+b^2¦a^2-b^2¦2a+2b¦ab¦2¦Binomial expansion hai¦Algebra me use hota hai.
+Which language in Korea?¦Korean¦Japanese¦Chinese¦Thai¦Hindi¦1¦Korean official language hai¦Hangul script use hota hai.
+What is 8×8?¦56¦64¦72¦80¦88¦2¦8×8 = 64¦Square multiplication hai.
+Capital of China?¦Shanghai¦Beijing¦Guangzhou¦Shenzhen¦Hong Kong¦2¦Beijing capital hai¦Political center hai.
+What is \( \log_{10}(10) \)?¦0¦1¦2¦10¦100¦2¦log10(10)=1¦Logarithm concept hai.
+Which language in Italy?¦Italian¦Spanish¦French¦German¦English¦1¦Italian official language hai¦Romance family hai.
+What is 15+25?¦30¦35¦40¦45¦50¦3¦15+25 = 40¦Addition hai.
+Capital of UK?¦London¦Manchester¦Birmingham¦Leeds¦Liverpool¦1¦London capital hai¦Global city hai.
+What is \( \int x dx \)?¦x^2/2+C¦x^2¦2x¦lnx¦1/x¦1¦Integral of x is x^2/2+C¦Calculus concept hai.
+Which language in Bangladesh?¦Bengali¦Hindi¦Urdu¦English¦Tamil¦1¦Bengali official hai¦Widely spoken hai.
+What is 12×12?¦120¦132¦144¦156¦168¦3¦12×12 = 144¦Square multiplication hai.
+Capital of Argentina?¦Buenos Aires¦Cordoba¦Rosario¦Mendoza¦La Plata¦1¦Buenos Aires capital hai¦Cultural hub hai.
+What is \( \cos^2 x + \sin^2 x \)?¦0¦1¦2¦x¦-1¦2¦Identity equals 1¦Trigonometry identity hai.
+Which language in Iran?¦Persian¦Arabic¦Turkish¦English¦Urdu¦1¦Persian official hai¦Farsi bhi kaha jata hai.
+What is 7×5?¦30¦35¦40¦45¦50¦2¦7×5 = 35¦Multiplication hai.
+Capital of Egypt?¦Cairo¦Alexandria¦Giza¦Luxor¦Aswan¦1¦Cairo capital hai¦Nile ke paas hai.
+What is \(E=mc^2\)?¦Energy-mass relation¦Ohm law¦Newton law¦Hooke law¦Bernoulli¦1¦Einstein formula hai¦Relativity se related hai.
+Which language in Portugal?¦Portuguese¦Spanish¦French¦Italian¦German¦1¦Portuguese official hai¦Brazil me bhi use hoti hai.
+What is 18/3?¦4¦5¦6¦7¦8¦3¦18/3 = 6¦Division hai.
+Capital of Norway?¦Oslo¦Bergen¦Trondheim¦Stavanger¦Drammen¦1¦Oslo capital hai¦Major city hai.
+What is \( (x-1)^2 \)?¦x^2-2x+1¦x^2+1¦x^2-1¦2x-1¦x^2+2x+1¦1¦Binomial expansion hai¦Algebra me use hota hai.
+Which language in Sweden?¦Swedish¦Norwegian¦Danish¦Finnish¦English¦1¦Swedish official hai¦Scandinavian language hai.
+What is 11×11?¦111¦121¦131¦141¦151¦2¦11×11 = 121¦Square multiplication hai.
+Capital of Saudi Arabia?¦Jeddah¦Mecca¦Riyadh¦Medina¦Dammam¦3¦Riyadh capital hai¦Political center hai.
+What is \( \tan(45^\circ) \)?¦0¦1¦√2¦2¦-1¦2¦tan45°=1¦Trigonometry identity hai.
+Which language in Vietnam?¦Vietnamese¦Thai¦Lao¦Khmer¦Malay¦1¦Vietnamese official hai¦Tonal language hai.
+What is 14×2?¦24¦26¦28¦30¦32¦3¦14×2 = 28¦Multiplication hai.
+Capital of Finland?¦Helsinki¦Turku¦Espoo¦Vantaa¦Oulu¦1¦Helsinki capital hai¦Largest city hai.
+What is \( \sqrt{25} \)?¦3¦4¦5¦6¦7¦3¦√25 = 5¦Perfect square hai.
+Which language in Greece?¦Greek¦Latin¦Turkish¦Italian¦Spanish¦1¦Greek official hai¦Ancient language hai.
+What is 13+6?¦18¦19¦20¦21¦22¦2¦13+6 = 19¦Addition hai.
+Capital of Denmark?¦Copenhagen¦Aarhus¦Odense¦Aalborg¦Esbjerg¦1¦Copenhagen capital hai¦Port city hai.
+What is \( \frac{d}{dx}(x^2) \)?¦x¦2x¦x^2¦2¦1¦2¦Derivative is 2x¦Calculus rule hai.
+Which language in Indonesia?¦Indonesian¦Malay¦Javanese¦English¦Arabic¦1¦Indonesian official hai¦Bahasa Indonesia kaha jata hai.
+What is 9×7?¦60¦63¦66¦69¦72¦2¦9×7 = 63¦Multiplication hai.
+Capital of Switzerland?¦Zurich¦Geneva¦Bern¦Basel¦Lausanne¦3¦Bern capital hai¦Administrative center hai.
+What is \( \int 1 dx \)?¦x+C¦1¦0¦lnx¦x^2¦1¦Integral of 1 is x+C¦Basic calculus hai.
+Which language in Morocco?¦Arabic¦French¦Berber¦Both Arabic and French¦English¦4¦Multiple languages use hoti hain¦Multilingual country hai.
+What is 25×4?¦80¦90¦100¦110¦120¦3¦25×4 = 100¦Multiplication hai.
+Capital of Kenya?¦Nairobi¦Mombasa¦Kisumu¦Nakuru¦Eldoret¦1¦Nairobi capital hai¦Major city hai.
+What is \( \pi \approx \)?¦2.14¦3.14¦4.14¦5.14¦6.14¦2¦π ≈ 3.14¦Circle calculations me use hota hai.
+Which language in Thailand?¦Thai¦Vietnamese¦Lao¦Khmer¦Malay¦1¦Thai official hai¦Tonal language hai.
+What is 16×3?¦45¦48¦50¦52¦54¦2¦16×3 = 48¦Multiplication hai.
+Capital of Pakistan?¦Karachi¦Lahore¦Islamabad¦Peshawar¦Quetta¦3¦Islamabad capital hai¦Administrative center hai.
+What is \(x^3\) derivative?¦3x^2¦x^2¦3x¦x^3¦1¦1¦Derivative is 3x^2¦Calculus rule hai.
+Which language in Nepal?¦Nepali¦Hindi¦Bengali¦Urdu¦English¦1¦Nepali official hai¦Devanagari script use hota hai.
+What is 21+9?¦28¦29¦30¦31¦32¦3¦21+9 = 30¦Addition hai.
+Capital of Sri Lanka?¦Colombo¦Kandy¦Sri Jayawardenepura Kotte¦Galle¦Jaffna¦3¦Administrative capital hai¦Political center hai.
+What is \( (a-b)^2 \)?¦a^2-b^2¦a^2-2ab+b^2¦a^2+2ab+b^2¦2a-2b¦ab¦2¦Binomial square formula hai¦Algebra me use hota hai.
+Which language in Malaysia?¦Malay¦English¦Chinese¦Tamil¦All of these¦5¦Malaysia multilingual hai¦Multiple languages use hoti hain.
+What is 50×2?¦90¦100¦110¦120¦80¦2¦50×2 = 100¦Multiplication hai.
+Capital of South Africa?¦Pretoria¦Cape Town¦Johannesburg¦Durban¦Bloemfontein¦1¦Pretoria executive capital hai¦Administrative center hai.
+What is \( \cos(0) \)?¦0¦0.5¦1¦-1¦2¦3¦cos0=1¦Trigonometry identity hai.
+Which language in Philippines?¦Filipino¦Spanish¦English¦Both Filipino and English¦Chinese¦4¦Filipino and English official hai¦Bilingual country hai.
+What is 30/5?¦4¦5¦6¦7¦8¦3¦30/5 = 6¦Division hai.
+Capital of Greece?¦Athens¦Thessaloniki¦Patras¦Heraklion¦Larissa¦1¦Athens capital hai¦Ancient city hai.
+What is \( x^2+y^2 \)?¦Linear term¦Quadratic expression¦Constant¦Logarithm¦Derivative¦2¦Quadratic expression hai¦Algebraic form hai.
+Which language in Poland?¦Polish¦German¦Russian¦English¦French¦1¦Polish official hai¦Slavic language hai.
+What is 40+60?¦90¦100¦110¦120¦80¦2¦40+60 = 100¦Addition hai.
+Capital of UAE?¦Dubai¦Abu Dhabi¦Sharjah¦Ajman¦Ras Al Khaimah¦2¦Abu Dhabi capital hai¦Political center hai.
+What is \( \lim_{x \to \infty} \frac{1}{x} \)?¦0¦1¦∞¦-1¦Undefined¦1¦Limit equals 0¦Calculus concept hai.
+Which language in Colombia?¦Spanish¦Portuguese¦English¦French¦German¦1¦Spanish official hai¦Widely spoken hai.
+What is 7×8?¦54¦56¦58¦60¦62¦2¦7×8 = 56¦Multiplication hai.
+Capital of Chile?¦Santiago¦Valparaiso¦Concepcion¦La Serena¦Antofagasta¦1¦Santiago capital hai¦Major city hai.
+What is \( \sin^2 x + \cos^2 x \)?¦0¦1¦2¦x¦-1¦2¦Identity equals 1¦Trigonometry basic hai.
+Which language in Hungary?¦Hungarian¦German¦Slovak¦Romanian¦English¦1¦Hungarian official hai¦Unique language hai.
+What is 24/6?¦2¦3¦4¦5¦6¦3¦24/6 = 4¦Division hai.
+Capital of Peru?¦Lima¦Cusco¦Arequipa¦Trujillo¦Piura¦1¦Lima capital hai¦Coastal city hai.
+What is \( \frac{d}{dx}(x^3) \)?¦x^2¦3x^2¦3x¦x^3¦1¦2¦Derivative is 3x^2¦Calculus rule hai.
+Which language in Nigeria?¦English¦French¦Arabic¦Hausa only¦Spanish¦1¦English official hai¦Many local languages bhi hain.
+What is 8×9?¦70¦72¦74¦76¦78¦2¦8×9 = 72¦Multiplication hai.
+Capital of Vietnam?¦Hanoi¦Ho Chi Minh City¦Da Nang¦Hue¦Hai Phong¦1¦Hanoi capital hai¦Political center hai.
+What is \( \log(100) \)?¦1¦2¦3¦10¦100¦2¦log10(100)=2¦Logarithm concept hai.
+Which language in Ethiopia?¦Amharic¦Arabic¦English¦French¦Spanish¦1¦Amharic official hai¦Semitic language hai.
+What is 3×3×3?¦6¦9¦18¦27¦30¦4¦3×3×3 = 27¦Exponential multiplication hai.
+Capital of New Zealand?¦Auckland¦Wellington¦Christchurch¦Hamilton¦Dunedin¦2¦Wellington capital hai¦Administrative center hai.
