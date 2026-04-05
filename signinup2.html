@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard Auth</title>
+
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+import { 
+  getAuth, 
+  GoogleAuthProvider,
+  signInWithPopup,
+  onAuthStateChanged,
+  signOut
+} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
+
+import { 
+  getFirestore,
+  doc,
+  setDoc,
+  getDoc
+} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+const firebaseConfig = {
+    apiKey: "AIzaSyDbkK1inremaHQDtUrB-DX5CkvcAeihieY",
+    authDomain: "quizdb-9db17.firebaseapp.com",
+    projectId: "quizdb-9db17",
+    storageBucket: "quizdb-9db17.firebasestorage.app",
+    messagingSenderId: "1064062597943",
+    appId: "1:1064062597943:web:be4d3f136a370e5181f8b2"
+};
+
+const app = initializeApp(firebaseConfig);
+const auth = getAuth(app);
+const db = getFirestore(app);
+
+const loginSection = document.getElementById("loginSection");
+const dashboard = document.getElementById("dashboard");
+const userName = document.getElementById("userName");
+const userEmail = document.getElementById("userEmail");
+const userPhoto = document.getElementById("userPhoto");
+const phoneForm = document.getElementById("phoneForm");
+const phoneStatus = document.getElementById("phoneStatus");
+
+window.googleLogin = async () => {
+  try {
+    const provider = new GoogleAuthProvider();
+    await signInWithPopup(auth, provider);
+  } catch (err) {
+    alert(err.message);
+  }
+};
+
+window.logout = async () => {
+  await signOut(auth);
+};
+
+window.savePhone = async () => {
+  const user = auth.currentUser;
+  const phone = document.getElementById("phone").value;
+
+  if (!phone) {
+    alert("Enter phone number");
+    return;
+  }
+
+  const ref = doc(db, "users", user.uid);
+
+  await setDoc(ref, {
+    email: user.email,
+    name: user.displayName,
+    phone: phone
+  });
+
+  phoneStatus.innerText = "Phone saved successfully";
+  phoneForm.style.display = "none";
+};
+
+onAuthStateChanged(auth, async (user) => {
+  if (user) {
+    loginSection.style.display = "none";
+    dashboard.style.display = "block";
+
+    userName.innerText = user.displayName;
+    userEmail.innerText = user.email;
+    userPhoto.src = user.photoURL;
+
+    const ref = doc(db, "users", user.uid);
+    const snap = await getDoc(ref);
+
+    if (snap.exists() && snap.data().phone) {
+      phoneForm.style.display = "none";
+      phoneStatus.innerText = "Phone: " + snap.data().phone;
+    } else {
+      phoneForm.style.display = "block";
+    }
+
+  } else {
+    loginSection.style.display = "block";
+    dashboard.style.display = "none";
+  }
+});
+</script>
+
+</head>
+
+<body>
+
+<div id="loginSection">
+  <h2>Login</h2>
+  <button onclick="googleLogin()">Sign in with Google</button>
+</div>
+
+<div id="dashboard" style="display:none;">
+  <h2>Dashboard</h2>
+
+  <img id="userPhoto" width="80"><br><br>
+  <div id="userName"></div>
+  <div id="userEmail"></div>
+
+  <br>
+  <button onclick="logout()">Logout</button>
+
+  <hr>
+
+  <div id="phoneForm" style="display:none;">
+    <h3>Add Phone Number</h3>
+    <input type="text" id="phone" placeholder="+91XXXXXXXXXX"><br><br>
+    <button onclick="savePhone()">Save Phone</button>
+  </div>
+
+  <p id="phoneStatus"></p>
+
+</div>
+
+</body>
+</html>
